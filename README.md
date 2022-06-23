@@ -31,5 +31,5 @@ As a learner, it creates more knowledges and experiences on programing or offers
 Disadvantage of refactoring code
 On the other hand, it will take time to refactor a code. I will work sometimes, but the other not. Some people would say, “it is fine to keep using the original code, as long as it works.” Refactoring may not create as much efficiency as the amount of time the programmer has needed on it. Comparison between the amount of time that is saved and the amount of time that is spent would be even more critical from a business the business viewpoint.
 
-Refactoring the original VBA script
+Refactoring the original VBA script How refactoring worked in the project
 Due to the volume of the data to be processed, efficiency that was gained by refactoring is quantitatively small, that is approximately one second. The disadvantage exceeds advantage in this refactoring project. However, I certainly learned a new way to build a code through the project.
