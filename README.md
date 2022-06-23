@@ -28,7 +28,7 @@ Improvement was seen in the process time, which was 0.21875 seconds and 0.21875 
 
 ## 3. Summary
 ### i. Advantage of refactoring code
-The most important aspect of refactoring is efficiency. As the project demonstrated, a successful refactoring will cut the program’s processing time by a certain amount. Also, by refactoring in this project, the code was able to get rid of nested structure, which is often complicate and not easy to understand.
+The most important aspect of refactoring is efficiency. As the project demonstrated, a successful refactoring will cut the program’s process time by a certain amount. Also, by refactoring in this project, the code was able to get rid of nested structure, which is often complicate and not easy to understand.
 As a learner, it creates more knowledges and experiences on programing or offers a chance to think in a different way.
 
 ### ii. Disadvantage of refactoring code
