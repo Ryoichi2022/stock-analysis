@@ -10,8 +10,7 @@ The stock data was provided in Excel format and included opening price, highest 
 
 ### ii. Overview of original code
 In the original VBA code, all 12 tickers were defined as array, and the code was written using the For loop so that the program would run through the data for every one of the 12 tickers separately. A nested loop was adopted as shown below.
-![Original Code] (https://github.com/Ryoichi2022/stock-analysis/blob/main/Original%20Code.png)
-
+![Original_Code](https://github.com/Ryoichi2022/stock-analysis/blob/main/Original%20Code.png)
 
 The process time resulted in 1.351563 seconds and 1.296875 seconds for the data of 2018 and 2017, respectively.
 
