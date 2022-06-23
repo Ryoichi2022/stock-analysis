@@ -1,3 +1,5 @@
+Challenge 2
+
 # stock-analysis
 1.	Overview of Project: Explain the purpose of this analysis.
 A code was developed using Visual Basic for Applications (VBA) to analyze transaction volume and rate of return for 12 stocks during the period of 2018 and 2017. This project is to refactor the code that has been created for the stock analysis in order to obtain more efficiency in running the code. 
