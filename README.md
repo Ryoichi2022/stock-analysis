@@ -16,12 +16,14 @@ The process time resulted in 1.351563 seconds and 1.296875 seconds for the data 
 
 ### iii. Overview of refactored code
 In the original code, it appeared that the program repeated the same process over the same data 12 times. Therefore, there was room for refactoring to eliminate the repetition to gain more efficiency. Specifically, the code was edited as follows.
+![Refactored_Code](https://github.com/Ryoichi2022/stock-analysis/blob/main/Refactored%20Code.png)
 
 In the refactored code, the program runs only once over the stock transaction data. Every time the ticker changes in the date while the program is scanning it from the top to the bottom, the program switches the ticker to the next based on tickerIndex.
 
-
 ### iv. Result of refactoring
 Improvement was seen in the process time, which was 0.21875 seconds and 0.21875 seconds for 2018 and 2017, respectively under the refactored code. For both years, the process time decreased by over 80% in the refactored code. This would be a significant difference when the program runs over much larger amount of data.
+
+
 
 ## 3. Summary
 ### i. Advantage of refactoring code
