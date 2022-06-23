@@ -28,11 +28,10 @@ Improvement was seen in the process time, which was 0.21875 seconds and 0.21875 
 
 ## 3. Summary
 ### i. Advantage of refactoring code
-The most important aspect of refactoring is efficiency. As the project demonstrated, a successful refactoring will cut the program’s process time by a certain amount. Also, by refactoring in this project, the code was able to get rid of nested structure, which is often complicate and not easy to understand.
-As a learner, it creates more knowledges and experiences on programing or offers a chance to think in a different way.
+The most important aspect of refactoring is efficiency. As the project demonstrated, a successful refactoring will cut the program’s process time by a certain amount. Also, by refactoring in this project, the code was able to get rid of nested structure, which is often complex and not easy to understand. In addition, as a learner, it creates more knowledges and experiences on programing and offers a chance to think in a different way.
 
 ### ii. Disadvantage of refactoring code
-On the other hand, it will take time to refactor a code. I will work sometimes, but the other not. Some people would say, “it is fine to keep using the original code, as long as it works.” Refactoring may not create as much efficiency as the amount of time the programmer has needed on it. Comparison between the amount of time that is saved and the amount of time that is spent would be even more critical from a business the business viewpoint.
+On the other hand, it will take some time to refactor a code. It will work sometimes, but the other not. Some people would say, “It is fine to keep using the original code, as long as it works.” Refactoring may not create as much efficiency as the amount of time the programmer has needed on it. Comparison between the amount of time that is saved and the amount of time that is spent would be even more critical from the business viewpoint.
 
 ### iii. How refactoring worked in the project
-Due to the volume of the data to be processed, efficiency that was gained by refactoring is quantitatively small, that is approximately one second. The disadvantage exceeds advantage in this refactoring project. However, I certainly learned a new way to build a code through the project.
+Due to the volume of the data processed, efficiency that was gained by refactoring is quantitatively small, that is approximately one second. Disadvantage exceeds advantage in this refactoring project. However, I certainly learned a new way to build a code through the project.
