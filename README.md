@@ -23,7 +23,8 @@ In the refactored code, the program runs only once over the stock transaction da
 ### iv. Result of refactoring
 Improvement was seen in the process time, which was 0.21875 seconds and 0.21875 seconds for 2018 and 2017, respectively under the refactored code. For both years, the process time decreased by over 80% in the refactored code. This would be a significant difference when the program runs over much larger amount of data.
 
-
+![Result_2018](https://github.com/Ryoichi2022/stock-analysis/blob/main/VBA_Challenge_2018.PNG)
+![Result_2017](https://github.com/Ryoichi2022/stock-analysis/blob/main/VBA_Challenge_2017.PNG)
 
 ## 3. Summary
 ### i. Advantage of refactoring code
